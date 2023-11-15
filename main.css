@@ -32,3 +32,7 @@ html {
 #navbar ul li a {
   padding: 0.5rem;
 }
+#navbar ul li a:hover {
+  background: #336ea2;
+  border-radius: 5px;
+}
