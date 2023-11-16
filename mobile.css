@@ -7,3 +7,11 @@
   overflow: hidden;
   height: 80px;
 }
+
+/* training mobile view */
+#training.items {
+  flex-direction: column;
+}
+#training .items .item {
+  width: 100%;
+}
