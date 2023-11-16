@@ -9,7 +9,7 @@
 }
 
 /* training mobile view */
-#training.items {
+#training .items {
   flex-direction: column;
 }
 #training .items .item {
