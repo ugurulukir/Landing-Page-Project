@@ -187,3 +187,41 @@ html {
 #contact .contact-form ul li a:hover {
   opacity: 0.8;
 }
+
+/* People Section */
+#people {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border-bottom: 1px solid grey;
+}
+
+#people img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 100%;
+}
+
+#people .name {
+  text-align: center;
+}
+
+#people .name h2 {
+  margin-bottom: 0.75rem;
+}
+
+#people .name p {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+article p {
+  text-align: center;
+}
+
+.bio p::first-letter {
+  text-transform: uppercase;
+  font-size: 3em;
+}
