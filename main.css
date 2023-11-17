@@ -147,6 +147,10 @@ html {
   margin-bottom: 0.25rem;
   opacity: 0.6;
 }
+
+.courses .course .course-info .instructor a {
+  color: #333;
+}
 .courses .course .course-info .rating {
   font-size: 0.8rem;
   margin-bottom: 0.25rem;
